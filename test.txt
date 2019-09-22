@@ -7,3 +7,4 @@ test commit -a -m commmand
 branch
 
 add test
+add feature
